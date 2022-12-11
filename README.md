@@ -1,3 +1,0 @@
-# logos
-
-🎨 GGS logos
