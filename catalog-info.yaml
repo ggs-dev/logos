@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: logos
+  title: logos
+  description: GGS logos
+  annotations:
+    github.com/project-slug: ggs-dev/logos
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group:default/developers
